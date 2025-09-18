@@ -1,0 +1,9 @@
+Download Python setup
+at my time 3.13.7
+
+installation
+
+VS code , install python extension
+
+
+
