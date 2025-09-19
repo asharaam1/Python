@@ -5,5 +5,24 @@ installation
 
 VS code , install python extension
 
+Python => 1991 by Guido Van Rossum (Google, Dropbox, now Microsoft)
+name => Monty Python's Flying Circus (british Comedy Series)
+
+CHAPTER # 1
+============
+MODULE, COMMENTS & PIP 
+=======================
+.py => extension for python  e.g games = .exe, movies = .mp4
+MODULES? 2 han
+REPL = Read Evaluate Print Loop. 
+
+PIP? pakage manager e.g: npm, pnpm, yarn, conda, poetry etc
+install modules like : "pip install flask" => then import
+pip install pyjokes  => npw we do that
+
+COMMENTS? 
+In python, we use # for comments' which the computer ignores
+
+
 
 
